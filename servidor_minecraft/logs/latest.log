@@ -1,0 +1,778 @@
+[12:18:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[12:18:51] [ServerMain/INFO]: Loaded 1470 recipes
+[12:18:51] [ServerMain/INFO]: Loaded 1584 advancements
+[12:18:51] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[12:18:51] [Server thread/INFO]: Loading properties
+[12:18:51] [Server thread/INFO]: Default game type: SURVIVAL
+[12:18:51] [Server thread/INFO]: Generating keypair
+[12:18:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:18:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:18:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:18:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:18:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:18:51] [Server thread/INFO]: Preparing level "world"
+[12:18:52] [Server thread/INFO]: Loading 0 persistent chunks...
+[12:18:52] [Server thread/INFO]: Time elapsed: 16 ms
+[12:18:52] [Server thread/INFO]: Done (0.412s)! For help, type "help"
+[12:19:52] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[12:25:01] [Server thread/INFO]: UPFUTX_300[/10.242.149.228:52232] logged in with entity id 86 at (869.6999999880791, 61.0, 2043.699999988079)
+[12:25:01] [Server thread/INFO]: UPFUTX_300 joined the game
+[12:25:31] [Server thread/INFO]: chino555[/10.242.90.119:63937] logged in with entity id 1113 at (12068.68694557643, 65.0, -5663.841031565601)
+[12:25:31] [Server thread/INFO]: chino555 joined the game
+[12:25:48] [Server thread/INFO]: [Not Secure] <UPFUTX_300> asdasd
+[12:25:53] [Server thread/INFO]: [Not Secure] <chino555> a.
+[12:26:02] [Server thread/INFO]: [Not Secure] <chino555> como que raid- defeat
+[12:26:03] [Server thread/INFO]: [Not Secure] <chino555> HDP
+[12:26:05] [Server thread/INFO]: [Not Secure] <UPFUTX_300> XD
+[12:26:05] [Server thread/INFO]: [Not Secure] <chino555> JUAN
+[12:26:10] [Server thread/INFO]: [Not Secure] <chino555> ME DEBES UNA POCION
+[12:26:12] [Server thread/INFO]: [Not Secure] <UPFUTX_300> yo q enfermo
+[12:26:15] [Server thread/INFO]: [Not Secure] <chino555> MIS ALDEANOS ESTAN VIVOS
+[12:26:23] [Server thread/INFO]: [Not Secure] <chino555> PORQUE CERRASTE EL SERVER Es
+[12:26:32] [Server thread/INFO]: [Not Secure] <UPFUTX_300> pq no we
+[12:26:42] [Server thread/INFO]: [Not Secure] <UPFUTX_300> si dejaba el sevrer encendido hasrta que llegara a jaguaron
+[12:26:46] [Server thread/INFO]: [Not Secure] <UPFUTX_300> se iba a cerrar
+[12:26:59] [Server thread/INFO]: [Not Secure] <UPFUTX_300> y posiblemente sea iguall o peor q ahora
+[12:28:10] [Server thread/INFO]: [Not Secure] <chino555> QUE?
+[12:28:14] [Server thread/INFO]: [Not Secure] <UPFUTX_300> q el q
+[12:28:18] [Server thread/INFO]: [Not Secure] <chino555> a un gato le hicieron daño pq si
+[12:28:24] [Server thread/INFO]: [Not Secure] <UPFUTX_300> xd
+[12:28:24] [Server thread/INFO]: [Not Secure] <chino555> Le dio un paro cardiaco
+[12:28:25] [Server thread/INFO]: [Not Secure] <chino555> diavlo
+[12:28:29] [Server thread/INFO]: [Not Secure] <UPFUTX_300> XD
+[12:31:09] [Server thread/INFO]: Villager dcx['Villager'/21, l='ServerLevel[world]', x=917.70, y=64.00, z=2038.30] died, message: 'Villager was squished too much'
+[12:32:17] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1350, y=62, z=-622} is{x=1346, y=63, z=-627}
+[12:32:20] [Server thread/INFO]: Villager dcx['Villager'/37, l='ServerLevel[world]', x=917.70, y=64.00, z=2038.30] died, message: 'Villager was squished too much'
+[12:32:24] [Server thread/INFO]: Villager dcx['Villager'/33, l='ServerLevel[world]', x=917.70, y=64.00, z=2038.30] died, message: 'Villager was squished too much'
+[12:32:54] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1347, y=61, z=-602} is{x=1345, y=62, z=-603}
+[12:33:43] [Server thread/INFO]: [Not Secure] <chino555> agregale una muerte a axel
+[12:33:47] [Server thread/INFO]: [Not Secure] <chino555> el murio 4 veces
+[12:34:18] [Server thread/INFO]: [Not Secure] <chino555> (es pa hacer 5-4-3-2) pero si murio 4 veces
+[12:34:54] [Server thread/INFO]: [UPFUTX_300: Added 1 to [Muertes] for ADRC_Xx (now 4)]
+[12:35:01] [Server thread/INFO]: [Not Secure] <UPFUTX_300> ya
+[12:35:18] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1378, y=58, z=-592} is{x=1385, y=62, z=-589}
+[12:38:51] [Server thread/INFO]: Villager dcx['Villager'/45, l='ServerLevel[world]', x=918.44, y=64.32, z=2036.96] died, message: 'Villager tried to swim in lava'
+[12:41:17] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1259, y=38, z=-756} is{x=1258, y=35, z=-753}
+[12:41:25] [Server thread/INFO]: [Not Secure] [Server] asd
+[12:41:28] [Server thread/INFO]: [Not Secure] <chino555> asd
+[12:41:35] [Server thread/INFO]: [Not Secure] <UPFUTX_300> asd
+[12:42:02] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1301, y=64, z=-878} is{x=1302, y=65, z=-878}
+[12:42:02] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1301, y=64, z=-878} is{x=1302, y=65, z=-878}
+[12:42:02] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1301, y=64, z=-878} is{x=1302, y=65, z=-878}
+[12:46:53] [Server thread/INFO]: Villager dcx['Villager'/32, l='ServerLevel[world]', x=980.50, y=64.00, z=2025.70] died, message: 'Villager burned to death'
+[12:54:06] [Server thread/INFO]: Villager dcx['Villager'/10902, l='ServerLevel[world]', x=919.22, y=66.42, z=2052.74] died, message: 'Villager burned to death'
+[12:54:35] [Server thread/INFO]: [Not Secure] [Server] asd
+[12:54:39] [Server thread/INFO]: [Not Secure] <chino555> asd
+[12:54:43] [Server thread/INFO]: [Not Secure] <UPFUTX_300> asd
+[12:55:34] [Server thread/INFO]: [Not Secure] <chino555> DORMI JUAN
+[13:00:05] [Server thread/INFO]: chino555 lost connection: Disconnected
+[13:00:05] [Server thread/INFO]: chino555 left the game
+[13:00:46] [Server thread/INFO]: [Not Secure] [Server] asd
+[13:02:26] [Server thread/INFO]: chino555[/10.242.90.119:54856] logged in with entity id 21294 at (12089.876957371165, 64.0, -5684.673675802655)
+[13:02:26] [Server thread/INFO]: chino555 joined the game
+[13:02:38] [Server thread/INFO]: [Not Secure] <UPFUTX_300> asd
+[13:02:40] [Server thread/INFO]: [Not Secure] <chino555> asd
+[13:05:52] [Server thread/INFO]: chino555 lost connection: Disconnected
+[13:05:52] [Server thread/INFO]: chino555 left the game
+[13:06:03] [Server thread/INFO]: [Not Secure] [Server] asd
+[13:13:12] [Server thread/WARN]: Mismatch in destroy block pos: is{x=981, y=65, z=2040} is{x=981, y=65, z=2039}
+[13:13:12] [Server thread/WARN]: Mismatch in destroy block pos: is{x=979, y=65, z=2040} is{x=981, y=65, z=2039}
+[13:18:24] [Server thread/INFO]: Villager dcx['Villager'/28, l='ServerLevel[world]', x=977.16, y=64.29, z=2038.46] died, message: 'Villager tried to swim in lava'
+[13:18:52] [Server thread/INFO]: [Not Secure] [Server] asd
+[13:27:45] [Server thread/WARN]: Mismatch in destroy block pos: is{x=928, y=87, z=2062} is{x=929, y=87, z=2062}
+[13:27:46] [Server thread/WARN]: Mismatch in destroy block pos: is{x=928, y=88, z=2065} is{x=930, y=87, z=2064}
+[13:28:04] [Server thread/WARN]: Mismatch in destroy block pos: is{x=928, y=85, z=2066} is{x=928, y=84, z=2063}
+[13:29:07] [Server thread/INFO]: [Not Secure] <UPFUTX_300> asd
+[13:29:10] [Server thread/INFO]: [Not Secure] [Server] asd
+[13:29:55] [Server thread/INFO]: Villager dcx['Villager'/22912, l='ServerLevel[world]', x=917.70, y=64.00, z=2038.70] died, message: 'Villager was squished too much'
+[13:30:24] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[13:37:00] [Server thread/INFO]: Villager dcx['Villager'/26739, l='ServerLevel[world]', x=917.70, y=64.00, z=2038.70] died, message: 'Villager was squished too much'
+[13:37:04] [Server thread/INFO]: Villager dcx['Villager'/26750, l='ServerLevel[world]', x=917.70, y=64.00, z=2038.70] died, message: 'Villager was squished too much'
+[13:42:59] [Server thread/INFO]: Villager dcx['Villager'/30693, l='ServerLevel[world]', x=919.57, y=64.00, z=2038.76] died, message: 'Villager tried to swim in lava'
+[13:43:48] [Server thread/INFO]: chino555[/10.242.90.119:53006] logged in with entity id 35611 at (12095.937794163734, 64.0, -5680.263437161309)
+[13:43:48] [Server thread/INFO]: chino555 joined the game
+[13:43:52] [Server thread/INFO]: [Not Secure] [Server] asd
+[13:43:55] [Server thread/INFO]: [Not Secure] <chino555> JUANNNNNNNNNN
+[13:43:57] [Server thread/INFO]: [Not Secure] <UPFUTX_300> q
+[13:44:00] [Server thread/INFO]: [Not Secure] <chino555> dormi
+[13:44:01] [Server thread/INFO]: [Not Secure] <chino555> ;)
+[13:44:04] [Server thread/INFO]: [Not Secure] <UPFUTX_300> voy
+[13:44:23] [Server thread/INFO]: [Not Secure] <chino555> .-.
+[13:44:24] [Server thread/INFO]: [Not Secure] <chino555> .-.
+[13:44:25] [Server thread/INFO]: [Not Secure] <chino555> .-.
+[13:44:26] [Server thread/INFO]: [Not Secure] <chino555> .-.
+[13:44:27] [Server thread/INFO]: [Not Secure] <chino555> .-.
+[13:44:32] [Server thread/INFO]: Villager dcx['Toolsmith'/35648, l='ServerLevel[world]', x=12100.32, y=63.00, z=-5718.70] died, message: 'Toolsmith was slain by Zombie'
+[13:46:37] [Server thread/INFO]: [Not Secure] <UPFUTX_300> CAIDA DE PLUMA 4
+[13:46:38] [Server thread/INFO]: [Not Secure] <UPFUTX_300> asdasafasnfasfa
+[13:46:48] [Server thread/INFO]: [Not Secure] <chino555> Caida de maduro en enero de 2026
+[13:46:53] [Server thread/INFO]: [Not Secure] <UPFUTX_300> xddd
+[13:46:55] [Server thread/INFO]: [Not Secure] <chino555> tmr
+[13:47:09] [Server thread/INFO]: [Not Secure] <chino555> bue el loot de hoa era una mrd le mate al pedo
+[13:47:30] [Server thread/INFO]: [Not Secure] <UPFUTX_300> q loco
+[13:53:12] [Server thread/INFO]: [Not Secure] <UPFUTX_300> asd
+[13:53:16] [Server thread/INFO]: [Not Secure] [Server] asd
+[13:53:59] [Server thread/INFO]: Villager dcx['Villager'/30697, l='ServerLevel[world]', x=917.70, y=64.00, z=2038.70] died, message: 'Villager was squished too much'
+[13:55:04] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12092, y=64, z=-5720} is{x=12100, y=67, z=-5668}
+[13:55:14] [Server thread/INFO]: [Not Secure] <chino555> dormir es laburo
+[13:55:23] [Server thread/INFO]: [Not Secure] <chino555> diavlo
+[13:59:04] [Server thread/INFO]: [Not Secure] <UPFUTX_300> asda
+[13:59:10] [Server thread/INFO]: [Not Secure] [Server] asda
+[14:07:59] [Server thread/INFO]: [Not Secure] <UPFUTX_300> DYERME
+[14:08:01] [Server thread/INFO]: [Not Secure] <UPFUTX_300> TAI
+[14:08:02] [Server thread/INFO]: [Not Secure] <chino555> A
+[14:08:05] [Server thread/INFO]: chino555 lost connection: Disconnected
+[14:08:05] [Server thread/INFO]: chino555 left the game
+[14:08:08] [Server thread/INFO]: [Not Secure] [Server] asd
+[14:08:22] [Server thread/INFO]: chino555[/10.242.90.119:62389] logged in with entity id 49079 at (12083.77756595921, 57.0, -5675.195138702529)
+[14:08:22] [Server thread/INFO]: chino555 joined the game
+[14:08:41] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=12076, y=66, z=-5682}
+[14:13:54] [Server thread/INFO]: Villager dcx['Villager'/17, l='ServerLevel[world]', x=917.70, y=64.00, z=2038.30] died, message: 'Villager was squished too much'
+[14:13:55] [Server thread/INFO]: Villager dcx['Villager'/16, l='ServerLevel[world]', x=917.70, y=64.00, z=2038.30] died, message: 'Villager was squished too much'
+[14:13:55] [Server thread/INFO]: Villager dcx['Villager'/22901, l='ServerLevel[world]', x=917.70, y=64.00, z=2038.30] died, message: 'Villager was squished too much'
+[14:17:42] [Server thread/INFO]: Villager dcx['Villager'/4741, l='ServerLevel[world]', x=917.30, y=64.00, z=2038.30] died, message: 'Villager was squished too much'
+[14:17:48] [Server thread/INFO]: Villager dcx['Villager'/19, l='ServerLevel[world]', x=917.70, y=64.00, z=2038.30] died, message: 'Villager was squished too much'
+[14:18:44] [Server thread/INFO]: [Not Secure] <chino555> DORMI JUAN
+[14:18:48] [Server thread/INFO]: [Not Secure] <UPFUTX_300> VPOY
+[14:18:54] [Server thread/INFO]: [Not Secure] <chino555> ZEUS
+[14:19:01] [Server thread/INFO]: [Not Secure] <chino555> ESTA ZEUS
+[14:19:04] [Server thread/INFO]: [Not Secure] <UPFUTX_300> AH FJASFÑAFL A HKJWBKJS
+[14:19:05] [Server thread/INFO]: [Not Secure] <chino555> LE CAYO UN RAYO A MI CABALO
+[14:19:08] [Server thread/INFO]: [Not Secure] <chino555> deah
+[14:19:10] [Server thread/INFO]: [Not Secure] <UPFUTX_300> XDD
+[14:20:27] [Server thread/INFO]: [Not Secure] <chino555> PERUANOO
+[14:20:38] [Server thread/INFO]: [Not Secure] <UPFUTX_300> ke
+[14:20:51] [Server thread/INFO]: [Not Secure] <chino555> mira el grupo
+[14:21:23] [Server thread/INFO]: [Not Secure] <UPFUTX_300> ya
+[14:21:28] [Server thread/INFO]: [Not Secure] <UPFUTX_300> xd
+[14:21:52] [Server thread/INFO]: chino555 has made the advancement [Tactical Fishing]
+[14:23:35] [Server thread/WARN]: Mismatch in destroy block pos: is{x=956, y=66, z=2046} is{x=956, y=64, z=2048}
+[14:23:35] [Server thread/WARN]: Mismatch in destroy block pos: is{x=957, y=66, z=2048} is{x=956, y=64, z=2048}
+[14:23:35] [Server thread/WARN]: Mismatch in destroy block pos: is{x=955, y=66, z=2050} is{x=956, y=64, z=2048}
+[14:23:35] [Server thread/WARN]: Mismatch in destroy block pos: is{x=957, y=66, z=2047} is{x=956, y=64, z=2048}
+[14:23:35] [Server thread/WARN]: Mismatch in destroy block pos: is{x=956, y=67, z=2048} is{x=956, y=64, z=2048}
+[14:23:36] [Server thread/WARN]: Mismatch in destroy block pos: is{x=955, y=67, z=2049} is{x=956, y=64, z=2048}
+[14:23:36] [Server thread/WARN]: Mismatch in destroy block pos: is{x=957, y=65, z=2046} is{x=956, y=64, z=2048}
+[14:23:36] [Server thread/WARN]: Mismatch in destroy block pos: is{x=956, y=67, z=2047} is{x=956, y=64, z=2048}
+[14:23:36] [Server thread/WARN]: Mismatch in destroy block pos: is{x=956, y=65, z=2045} is{x=956, y=64, z=2048}
+[14:23:36] [Server thread/WARN]: Mismatch in destroy block pos: is{x=957, y=66, z=2049} is{x=956, y=64, z=2048}
+[14:23:36] [Server thread/WARN]: Mismatch in destroy block pos: is{x=956, y=66, z=2050} is{x=956, y=64, z=2048}
+[14:23:36] [Server thread/WARN]: Mismatch in destroy block pos: is{x=956, y=67, z=2049} is{x=956, y=64, z=2048}
+[14:23:36] [Server thread/WARN]: Mismatch in destroy block pos: is{x=957, y=66, z=2046} is{x=956, y=64, z=2048}
+[14:23:36] [Server thread/WARN]: Mismatch in destroy block pos: is{x=957, y=65, z=2050} is{x=956, y=64, z=2048}
+[14:23:36] [Server thread/WARN]: Mismatch in destroy block pos: is{x=958, y=65, z=2048} is{x=956, y=64, z=2048}
+[14:23:37] [Server thread/WARN]: Mismatch in destroy block pos: is{x=958, y=65, z=2047} is{x=956, y=64, z=2048}
+[14:23:37] [Server thread/WARN]: Mismatch in destroy block pos: is{x=955, y=65, z=2051} is{x=956, y=64, z=2048}
+[14:24:35] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1480, y=73, z=-713} is{x=1479, y=72, z=-711}
+[14:24:35] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1480, y=73, z=-713} is{x=1479, y=72, z=-711}
+[14:24:35] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1480, y=73, z=-713} is{x=1479, y=72, z=-711}
+[14:24:35] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1480, y=73, z=-713} is{x=1479, y=72, z=-711}
+[14:24:35] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1480, y=73, z=-713} is{x=1479, y=72, z=-711}
+[14:24:50] [Server thread/INFO]: [Not Secure] [Server] asd
+[14:25:23] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1473, y=73, z=-711} is{x=1472, y=74, z=-711}
+[14:25:23] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1473, y=73, z=-711} is{x=1472, y=74, z=-712}
+[14:26:50] [Server thread/WARN]: Mismatch in destroy block pos: is{x=958, y=57, z=2064} is{x=958, y=58, z=2063}
+[14:26:51] [Server thread/WARN]: Mismatch in destroy block pos: is{x=958, y=57, z=2064} is{x=958, y=58, z=2063}
+[14:27:29] [Server thread/INFO]: [Not Secure] <chino555> vuelvo
+[14:27:30] [Server thread/INFO]: chino555 lost connection: Disconnected
+[14:27:30] [Server thread/INFO]: chino555 left the game
+[14:31:39] [Server thread/INFO]: Villager dcx['Villager'/41539, l='ServerLevel[world]', x=917.70, y=64.00, z=2038.70] died, message: 'Villager was squished too much'
+[14:34:10] [Server thread/INFO]: chino555[/10.242.90.119:50805] logged in with entity id 65771 at (12088.946981754425, 64.0, -5666.411080991295)
+[14:34:10] [Server thread/INFO]: chino555 joined the game
+[14:34:40] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[14:34:40] [Server thread/INFO]: say asd<--[HERE]
+[14:34:48] [Server thread/INFO]: [Not Secure] [Server] asd
+[14:36:51] [Server thread/INFO]: UPFUTX_300 has made the advancement [The Parrots and the Bats]
+[14:36:56] [Server thread/INFO]: [Not Secure] <UPFUTX_300> xd
+[14:37:06] [Server thread/INFO]: [Not Secure] <chino555> Tavy
+[14:37:30] [Server thread/INFO]: Villager dcx['Villager'/41540, l='ServerLevel[world]', x=917.70, y=64.00, z=2038.70] died, message: 'Villager was squished too much'
+[14:37:38] [Server thread/INFO]: Villager dcx['Villager'/56095, l='ServerLevel[world]', x=917.70, y=64.00, z=2038.70] died, message: 'Villager was squished too much'
+[14:40:50] [Server thread/INFO]: [Not Secure] <chino555> dormi
+[14:42:33] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12081, y=63, z=-5659} is{x=12073, y=64, z=-5659}
+[14:45:55] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12065, y=65, z=-5665} is{x=12068, y=65, z=-5672}
+[14:48:03] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12070, y=63, z=-5646} is{x=12076, y=68, z=-5651}
+[14:48:13] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12070, y=63, z=-5646} is{x=12073, y=68, z=-5646}
+[14:48:33] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12070, y=63, z=-5646} is{x=12078, y=68, z=-5644}
+[14:48:50] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12070, y=63, z=-5646} is{x=12072, y=68, z=-5649}
+[14:50:03] [Server thread/WARN]: Mismatch in destroy block pos: is{x=972, y=64, z=2145} is{x=967, y=62, z=2142}
+[14:50:03] [Server thread/WARN]: Mismatch in destroy block pos: is{x=972, y=63, z=2141} is{x=968, y=62, z=2142}
+[14:50:22] [Server thread/WARN]: Mismatch in destroy block pos: is{x=973, y=62, z=2140} is{x=969, y=61, z=2141}
+[14:50:51] [Server thread/INFO]: [Not Secure] <chino555> dormi pe
+[14:50:55] [Server thread/INFO]: [Not Secure] <UPFUTX_300> rnfermo
+[14:50:59] [Server thread/INFO]: [Not Secure] <chino555> XDDDDDDDDD
+[14:51:08] [Server thread/INFO]: Villager dcx['Villager'/64193, l='ServerLevel[world]', x=917.70, y=64.00, z=2038.70] died, message: 'Villager was squished too much'
+[14:51:10] [Server thread/INFO]: [Not Secure] <chino555> ahora no mas vi el sol
+[14:51:12] [Server thread/INFO]: [Not Secure] <chino555> pero ya dormi
+[14:51:21] [Server thread/INFO]: [Not Secure] <UPFUTX_300> xd
+[14:56:40] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12084, y=63, z=-5663} is{x=12081, y=67, z=-5647}
+[14:59:06] [Server thread/INFO]: [Not Secure] <chino555> DORMI JUAN
+[14:59:08] [Server thread/INFO]: [Not Secure] <chino555> XD
+[14:59:14] [Server thread/INFO]: [Not Secure] <UPFUTX_300> pedazo de efermo XDD
+[14:59:23] [Server thread/INFO]: [Not Secure] <UPFUTX_300> para eso mejor hago que sea de dia para siempre
+[14:59:27] [Server thread/INFO]: [Not Secure] <chino555> no.
+[14:59:33] [Server thread/INFO]: [Not Secure] <UPFUTX_300> lo hare tai
+[14:59:40] [Server thread/INFO]: [Not Secure] <chino555> te balaceare juan
+[15:00:00] [Server thread/INFO]: [Not Secure] <UPFUTX_300> no me daras ningun tiro we
+[15:00:09] [Server thread/INFO]: [Not Secure] <chino555> pq no tengo arco
+[15:00:11] [Server thread/INFO]: [Not Secure] <chino555> ._.
+[15:00:24] [Server thread/INFO]: [Not Secure] <UPFUTX_300> por eso
+[15:00:38] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12078, y=69, z=-5644} is{x=12079, y=64, z=-5645}
+[15:02:06] [Server thread/INFO]: [Not Secure] <chino555> DORMI JUAN
+[15:02:10] [Server thread/INFO]: [Not Secure] <UPFUTX_300> XD
+[15:02:25] [Server thread/INFO]: [Not Secure] <UPFUTX_300> DORMI TAI
+[15:02:27] [Server thread/INFO]: Villager dcx['Villager'/17399, l='ServerLevel[world]', x=917.30, y=64.00, z=2038.70] died, message: 'Villager was squished too much'
+[15:02:27] [Server thread/INFO]: Villager dcx['Villager'/30, l='ServerLevel[world]', x=917.30, y=64.00, z=2038.70] died, message: 'Villager was squished too much'
+[15:02:31] [Server thread/INFO]: Villager dcx['Villager'/31, l='ServerLevel[world]', x=917.30, y=64.00, z=2038.70] died, message: 'Villager was squished too much'
+[15:02:35] [Server thread/INFO]: [Not Secure] <UPFUTX_300> kore tai
+[15:02:47] [Server thread/INFO]: [Not Secure] <chino555> ya estaba durmiendo cuando escribiste eso
+[15:02:48] [Server thread/INFO]: [Not Secure] <chino555> pe
+[15:02:56] [Server thread/INFO]: [Not Secure] <UPFUTX_300> esatbas we
+[15:06:11] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12061, y=67, z=-5677} is{x=12059, y=67, z=-5671}
+[15:06:34] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12059, y=67, z=-5672} is{x=12074, y=65, z=-5658}
+[15:06:34] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12059, y=67, z=-5672} is{x=12074, y=65, z=-5658}
+[15:06:34] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12059, y=67, z=-5672} is{x=12074, y=65, z=-5658}
+[15:07:32] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12058, y=66, z=-5671} is{x=12059, y=68, z=-5671}
+[15:09:34] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12062, y=68, z=-5674} is{x=12061, y=69, z=-5672}
+[15:13:02] [Server thread/INFO]: [Not Secure] <chino555> DORMI JUAN
+[15:13:13] [Server thread/INFO]: [Not Secure] <chino555> DORMI JUAN
+[15:13:15] [Server thread/INFO]: [Not Secure] <UPFUTX_300> AMIGO 5 ALDEANOS 5 CAMAS Y 1 NOMAS DUERME
+[15:13:16] [Server thread/INFO]: [Not Secure] <chino555> DORMI JUAN
+[15:13:20] [Server thread/INFO]: [Not Secure] <chino555> XD
+[15:13:21] [Server thread/INFO]: [Not Secure] <UPFUTX_300> NO VOY A DORMIR MRD
+[15:13:34] [Server thread/INFO]: [Not Secure] <UPFUTX_300> AMIGO LOS ALDEANOS SON BATMAN O Q
+[15:13:43] [Server thread/INFO]: [Not Secure] <chino555> EL SEÑOR DE LA NOCHE
+[15:13:47] [Server thread/INFO]: [Not Secure] <UPFUTX_300> XDDç
+[15:14:23] [Server thread/INFO]: [Not Secure] <UPFUTX_300> DUERMAN PUE ALDEANO
+[15:14:29] [Server thread/INFO]: [Not Secure] <UPFUTX_300> DENO CHE KO E
+[15:14:42] [Server thread/INFO]: [Not Secure] <UPFUTX_300> QUIEWRO LLORAR VOLUDO NO DUERMEN
+[15:14:43] [Server thread/INFO]: [Not Secure] <UPFUTX_300> biSGL AN HFñoab finAHSfvBSDFs
+[15:15:26] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12080, y=63, z=-5640} is{x=12078, y=70, z=-5643}
+[15:16:22] [Server thread/INFO]: [Not Secure] <UPFUTX_300> anda dormi
+[15:16:25] [Server thread/INFO]: [Not Secure] <chino555> espera
+[15:16:25] [Server thread/INFO]: [Not Secure] <UPFUTX_300> tai
+[15:16:27] [Server thread/INFO]: [Not Secure] <UPFUTX_300> jeje
+[15:16:33] [Server thread/INFO]: [Not Secure] <UPFUTX_300> dale we q me quedo afk
+[15:16:38] [Server thread/INFO]: [Not Secure] <UPFUTX_300> tengo que ir a comer
+[15:16:58] [Server thread/INFO]: [Not Secure] <UPFUTX_300> dale pue tai
+[15:17:03] [Server thread/INFO]: [Not Secure] <UPFUTX_300> D:
+[15:17:08] [Server thread/INFO]: [Not Secure] <UPFUTX_300> DORMIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+[15:17:10] [Server thread/INFO]: [Not Secure] <UPFUTX_300> s`fb ASPFIUabFHsKHZF NiZSGFAS
+[15:17:12] [Server thread/INFO]: [Not Secure] <chino555> No
+[15:17:14] [Server thread/INFO]: [Not Secure] <chino555> mis aldeanos
+[15:17:18] [Server thread/INFO]: [Not Secure] <UPFUTX_300> kalajo
+[15:17:18] [Server thread/INFO]: [Not Secure] <chino555> deah
+[15:17:49] [Server thread/INFO]: [Not Secure] [Server] asd
+[15:18:09] [Server thread/INFO]: [Not Secure] <UPFUTX_300> amigo 34 modulos hay y 2 nomas anda
+[15:18:20] [Server thread/INFO]: [Not Secure] <UPFUTX_300> me voya comer
+[15:19:37] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12105, y=63, z=-5674} is{x=12082, y=65, z=-5646}
+[15:25:55] [Server thread/INFO]: [Not Secure] <UPFUTX_300> sadasd
+[15:26:02] [Server thread/INFO]: [Not Secure] [Server] asd
+[15:26:07] [Server thread/INFO]: [Not Secure] <chino555> A weno
+[15:26:22] [Server thread/INFO]: [Not Secure] <UPFUTX_300> q o q
+[15:27:35] [Server thread/INFO]: Villager dcx['Villager'/39, l='ServerLevel[world]', x=917.30, y=64.00, z=2038.70] died, message: 'Villager was squished too much'
+[15:27:58] [Server thread/INFO]: [Not Secure] <chino555> DORMI JUAN
+[15:28:02] [Server thread/INFO]: [Not Secure] <UPFUTX_300> no.
+[15:28:10] [Server thread/INFO]: [Not Secure] <UPFUTX_300> espera
+[15:29:37] [Server thread/INFO]: [Not Secure] <UPFUTX_300> zz
+[15:30:47] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[15:30:47] [Server thread/INFO]: sayasd<--[HERE]
+[15:30:54] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12070, y=67, z=-5647} is{x=12074, y=70, z=-5652}
+[15:30:56] [Server thread/INFO]: [Not Secure] [Server] asd
+[15:31:04] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12070, y=67, z=-5647} is{x=12074, y=70, z=-5652}
+[15:31:40] [Server thread/INFO]: Villager dcx['Villager'/10907, l='ServerLevel[world]', x=917.70, y=64.00, z=2038.30] died, message: 'Villager was squished too much'
+[15:32:38] [Server thread/INFO]: chino555 lost connection: Disconnected
+[15:32:38] [Server thread/INFO]: chino555 left the game
+[15:32:52] [Server thread/INFO]: chino555[/10.242.90.119:55002] logged in with entity id 93868 at (12086.862577079683, 64.0, -5662.517740105553)
+[15:32:52] [Server thread/INFO]: chino555 joined the game
+[15:37:08] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[15:37:34] [Server thread/INFO]: chino555 has made the advancement [Oh Shiny]
+[15:39:14] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1548, y=81, z=-661} is{x=1562, y=84, z=-631}
+[15:39:39] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1555, y=94, z=-628} is{x=1555, y=93, z=-630}
+[15:41:26] [Server thread/INFO]: [Not Secure] <UPFUTX_300> no puedo dormir we
+[15:41:31] [Server thread/INFO]: [Not Secure] <chino555> y yo menos
+[15:41:35] [Server thread/INFO]: [Not Secure] <UPFUTX_300> okay
+[15:43:55] [Server thread/INFO]: Villager dcx['Villager'/69158, l='ServerLevel[world]', x=918.50, y=64.06, z=2039.49] died, message: 'Villager was slain by Zombie'
+[15:46:26] [Server thread/INFO]: hoa_xd[/10.242.148.126:49888] logged in with entity id 102522 at (12058.054782247069, 68.24918707874468, -5666.024811261001)
+[15:46:26] [Server thread/INFO]: hoa_xd joined the game
+[15:46:29] [Server thread/INFO]: [Not Secure] <chino555> EHH
+[15:46:37] [Server thread/INFO]: [Not Secure] <UPFUTX_300> hoaaa
+[15:46:43] [Server thread/INFO]: [Not Secure] [Server] asd
+[15:46:58] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12075, y=74, z=-5647} is{x=12075, y=73, z=-5647}
+[15:46:58] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12075, y=74, z=-5647} is{x=12075, y=73, z=-5647}
+[15:46:58] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12075, y=74, z=-5647} is{x=12075, y=73, z=-5647}
+[15:46:58] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12075, y=74, z=-5647} is{x=12075, y=73, z=-5647}
+[15:47:00] [Server thread/INFO]: [Not Secure] <hoa_xd> boe
+[15:50:18] [Server thread/INFO]: [Not Secure] <hoa_xd> nerf interned a tai
+[15:50:24] [Server thread/INFO]: [Not Secure] <UPFUTX_300> xdddd
+[15:50:31] [Server thread/INFO]: [Not Secure] <chino555> Lo acabas de romper
+[15:50:32] [Server thread/INFO]: [Not Secure] <hoa_xd> kore me contagio
+[15:50:36] [Server thread/INFO]: [Not Secure] <chino555> XD
+[15:50:48] [Server thread/INFO]: hoa_xd was slain by chino555 using [Bladamante]
+[15:50:51] [Server thread/INFO]: [Not Secure] <chino555> XD
+[15:50:54] [Server thread/INFO]: [Not Secure] <hoa_xd> andate a la mierda
+[15:50:55] [Server thread/INFO]: [Not Secure] <UPFUTX_300> XDDD
+[15:50:56] [Server thread/INFO]: [Not Secure] <hoa_xd> calajo
+[15:51:14] [Server thread/INFO]: [Not Secure] <hoa_xd> hubiera dejado qe te mate el golem
+[15:51:18] [Server thread/INFO]: [Not Secure] <hoa_xd> juan rastrea
+[15:51:20] [Server thread/INFO]: [Not Secure] <hoa_xd> en fa
+[15:51:23] [Server thread/INFO]: [Not Secure] <hoa_xd> matale a tai
+[15:51:28] [Server thread/INFO]: [Not Secure] <hoa_xd> yiyi
+[15:51:36] [Server thread/INFO]: [Not Secure] <chino555> nde mira
+[15:51:36] [Server thread/INFO]: [Not Secure] <UPFUTX_300> ahora voy
+[15:52:12] [Server thread/WARN]: chino555 moved too quickly! -5.7533065160514525,0.5917590145324283,9.966768860959746
+[15:52:22] [Server thread/INFO]: chino555 has made the advancement [Take Aim]
+[15:52:39] [Server thread/INFO]: [Not Secure] <chino555> ojeda
+[15:52:45] [Server thread/INFO]: [Not Secure] [Server] asd
+[15:53:08] [Server thread/INFO]: [Not Secure] <hoa_xd> asd
+[15:53:11] [Server thread/INFO]: hoa_xd lost connection: Timed out
+[15:53:11] [Server thread/INFO]: hoa_xd left the game
+[15:53:11] [Server thread/WARN]: handleDisconnection() called twice
+[15:53:16] [Server thread/INFO]: hoa_xd[/10.242.148.126:61304] logged in with entity id 106307 at (12093.30084833483, 65.0, -5661.676360715448)
+[15:53:16] [Server thread/INFO]: hoa_xd joined the game
+[15:53:18] [Server thread/INFO]: [Not Secure] <hoa_xd> asd
+[15:53:27] [Server thread/INFO]: [Not Secure] <UPFUTX_300> asd
+[15:53:59] [Server thread/INFO]: [Not Secure] <chino555> boe
+[15:54:03] [Server thread/INFO]: [Not Secure] <chino555> lanza prime
+[15:54:03] [Server thread/INFO]: [Not Secure] <hoa_xd> cavani
+[15:54:07] [Server thread/INFO]: [Not Secure] <UPFUTX_300> ola oa
+[15:54:17] [Server thread/INFO]: [Not Secure] <hoa_xd> oa
+[15:54:29] [Server thread/INFO]: [Not Secure] <chino555> XD
+[15:56:21] [Server thread/INFO]: hoa_xd lost connection: Disconnected
+[15:56:21] [Server thread/INFO]: hoa_xd left the game
+[15:59:19] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12188, y=64, z=-5857} is{x=12187, y=64, z=-5845}
+[16:00:25] [Server thread/INFO]: [Not Secure] <chino555> Dormi juan
+[16:00:58] [Server thread/INFO]: [Not Secure] <chino555> DORMI JUAN
+[16:01:03] [Server thread/INFO]: [Not Secure] <UPFUTX_300> no puedo
+[16:01:07] [Server thread/INFO]: [Not Secure] <UPFUTX_300> y no me ovy a salir xd
+[16:01:14] [Server thread/INFO]: [Not Secure] <UPFUTX_300> mis aldeanos we
+[16:01:17] [Server thread/INFO]: [Not Secure] <chino555> Salite
+[16:01:18] [Server thread/INFO]: [Not Secure] <chino555> salite
+[16:01:20] [Server thread/INFO]: [Not Secure] <chino555> salite
+[16:01:21] [Server thread/INFO]: [Not Secure] <chino555> salite
+[16:01:25] [Server thread/INFO]: [Not Secure] <UPFUTX_300> kick por spam
+[16:01:29] [Server thread/INFO]: [Not Secure] <UPFUTX_300> no puedo mis aldeanos
+[16:03:32] [Server thread/INFO]: [Not Secure] <UPFUTX_300> CALAJO EL ZOMBI CON LANZA Y CABALO ZOMBI
+[16:03:36] [Server thread/INFO]: [Not Secure] <chino555> Si.
+[16:03:44] [Server thread/INFO]: [Not Secure] <UPFUTX_300> amigo mitad de la vida...
+[16:03:49] [Server thread/INFO]: [Not Secure] <chino555> XD
+[16:03:54] [Server thread/INFO]: [Not Secure] <chino555> ahora si esta dificil el juego de cubos
+[16:08:05] [Server thread/INFO]: Villager dcx['Villager'/26746, l='ServerLevel[world]', x=851.02, y=66.00, z=2027.66] died, message: 'Villager hit the ground too hard'
+[16:10:31] [Server thread/INFO]: [Not Secure] <UPFUTX_300> TELL ME WHERE SHE'S AT
+[16:11:03] [Server thread/INFO]: [Not Secure] <UPFUTX_300> QUIENE S ESTA IMITADORA HOY EN SU LUGARR 🗣️🗣️🗣️
+[16:11:18] [Server thread/INFO]: [Not Secure] <chino555> juan te secuestraron la pc?
+[16:11:23] [Server thread/INFO]: [Not Secure] <UPFUTX_300> si
+[16:11:30] [Server thread/INFO]: [Not Secure] <UPFUTX_300> soy jorge
+[16:11:53] [Server thread/INFO]: [Not Secure] <UPFUTX_300> vroma porsiacaso soy el juanete de toda la vida
+[16:14:34] [Server thread/INFO]: [Not Secure] <UPFUTX_300> mi granja evoluciono
+[16:14:47] [Server thread/INFO]: [Not Secure] [Server] asd
+[16:21:25] [Server thread/INFO]: [Not Secure] <chino555> ahora yo estoy con mis granjas
+[16:21:28] [Server thread/INFO]: [Not Secure] <chino555> anda a dormir solo
+[16:21:32] [Server thread/INFO]: [Not Secure] <UPFUTX_300> oka
+[16:21:34] [Server thread/INFO]: [Not Secure] <chino555> deah
+[16:21:37] [Server thread/INFO]: [Not Secure] <chino555> ahi voy
+[16:21:41] [Server thread/WARN]: UPFUTX_300 moved too quickly! 8.657468238835918,3.0013359791121417,4.369370005253359
+[16:21:51] [Server thread/INFO]: [Not Secure] <chino555> Dormi juano
+[16:21:59] [Server thread/INFO]: [Not Secure] <UPFUTX_300> aguanta un zombi
+[16:22:11] [Server thread/INFO]: [Not Secure] <UPFUTX_300> xd
+[16:22:18] [Server thread/INFO]: [Not Secure] <chino555> 2 kills
+[16:22:20] [Server thread/INFO]: [Not Secure] <chino555> hoa de mrd
+[16:22:26] [Server thread/INFO]: [Not Secure] <chino555> me vino y robo los libros
+[16:22:28] [Server thread/INFO]: [Not Secure] <UPFUTX_300> sisas
+[16:22:30] [Server thread/INFO]: [Not Secure] <chino555> de la mesa de encantamientos
+[16:22:31] [Server thread/INFO]: [Not Secure] <UPFUTX_300> 0xd
+[16:22:34] [Server thread/INFO]: [Not Secure] <chino555> ROMPIO TODO
+[16:22:37] [Server thread/INFO]: [Not Secure] <UPFUTX_300> ostia
+[16:22:43] [Server thread/INFO]: [Not Secure] <chino555> osea la mesa
+[16:22:45] [Server thread/INFO]: [Not Secure] <chino555> de enchats
+[16:22:46] [Server thread/INFO]: [Not Secure] <chino555> tmr
+[16:23:00] [Server thread/INFO]: [Not Secure] <chino555> tengo que esconder la mesa de encantamientos ,_,
+[16:23:20] [Server thread/INFO]: [Not Secure] <UPFUTX_300> yo no tengo nada escondido ahora que me pongo a pensar
+[16:23:22] [Server thread/INFO]: [Not Secure] <UPFUTX_300> xd
+[16:23:31] [Server thread/INFO]: [Not Secure] <chino555> y weno
+[16:23:35] [Server thread/INFO]: [Not Secure] <chino555> yo tampoco ptm
+[16:23:37] [Server thread/INFO]: [Not Secure] <UPFUTX_300> sale ir a stronhold?
+[16:23:44] [Server thread/INFO]: [Not Secure] <chino555> no
+[16:23:47] [Server thread/INFO]: [Not Secure] <UPFUTX_300> okay
+[16:26:49] [Server thread/INFO]: [Not Secure] [Server] asd
+[16:31:32] [Server thread/INFO]: [Not Secure] <UPFUTX_300> tai
+[16:31:35] [Server thread/INFO]: [Not Secure] <chino555> si
+[16:31:36] [Server thread/INFO]: [Not Secure] <UPFUTX_300> quiero probar algote
+[16:31:40] [Server thread/INFO]: [Not Secure] <chino555> no.
+[16:31:53] [Server thread/INFO]: [Not Secure] <UPFUTX_300> mira en el caht si es que aparece algote
+[16:31:58] [Server thread/INFO]: Incorrect argument for command
+[16:31:58] [Server thread/INFO]: gamerule sendCommandFeedback false<--[HERE]
+[16:32:01] [Server thread/INFO]: [Not Secure] <chino555> NUNCA APARECE NADA
+[16:32:05] [Server thread/INFO]: [Not Secure] <UPFUTX_300> xd
+[16:32:11] [Server thread/INFO]: [Not Secure] <UPFUTX_300> a ver y este
+[16:32:14] [Server thread/INFO]: [Not Secure] <chino555> CALMATE NO VA A SALIR TODO TU HISTORIAL AHI
+[16:32:17] [Server thread/INFO]: [UPFUTX_300: Set own game mode to Creative Mode]
+[16:32:18] [Server thread/INFO]: [Not Secure] <chino555> TRANQUI
+[16:32:21] [Server thread/INFO]: [Not Secure] <chino555> bue eso
+[16:32:24] [Server thread/INFO]: [Not Secure] <UPFUTX_300> xddd
+[16:32:24] [Server thread/INFO]: [Not Secure] <chino555> no mas eso
+[16:32:27] [Server thread/INFO]: [UPFUTX_300: Set own game mode to Survival Mode]
+[16:32:40] [Server thread/INFO]: [Not Secure] <UPFUTX_300> xddd
+[16:32:47] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[16:32:47] [Server thread/INFO]: /gamerule sendCommandFeedback false<--[HERE]
+[16:33:06] [Server thread/INFO]: Gamerule send_command_feedback is currently set to: true
+[16:33:35] [Server thread/INFO]: Gamerule send_command_feedback is now set to: false
+[16:34:29] [Server thread/INFO]: [Not Secure] <UPFUTX_300> afk we
+[16:34:33] [Server thread/INFO]: [Not Secure] <chino555> a weno
+[16:35:09] [Server thread/INFO]: [Not Secure] [Server] asd
+[16:35:43] [Server thread/INFO]: Expected double
+[16:35:43] [Server thread/INFO]: ...55 Pos[0]   # X<--[HERE]
+[16:36:03] [Server thread/INFO]: chino555 has the following entity data: [12106.840943573176d, 54.166109260938214d, -5655.5427114258355d]
+[16:37:07] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12012, y=63, z=-5729} is{x=12010, y=62, z=-5729}
+[16:37:48] [Server thread/INFO]: [Not Secure] <UPFUTX_300> volvi
+[16:37:59] [Server thread/INFO]: [Not Secure] <UPFUTX_300> duermo=
+[16:38:00] [Server thread/INFO]: [Not Secure] <UPFUTX_300> ?
+[16:39:27] [Server thread/INFO]: [Not Secure] <chino555> no
+[16:40:56] [Server thread/INFO]: [Not Secure] [Server] asd
+[16:44:12] [Server thread/INFO]: [Not Secure] [Server] asd
+[16:52:28] [Server thread/INFO]: [Not Secure] <UPFUTX_300> dormi
+[16:52:33] [Server thread/INFO]: [Not Secure] <UPFUTX_300> tormenta electrica
+[16:52:33] [Server thread/INFO]: [Not Secure] <chino555> ESTOY EN EL NETHER
+[16:52:34] [Server thread/INFO]: [Not Secure] <chino555> xd
+[16:52:37] [Server thread/INFO]: [Not Secure] <UPFUTX_300> a
+[16:52:39] [Server thread/INFO]: [Not Secure] <chino555> dormi vos juanico
+[16:52:40] [Server thread/INFO]: [Not Secure] <UPFUTX_300> ni ide axd
+[16:54:06] [Server thread/INFO]: [Not Secure] [Server] asd
+[16:55:45] [Server thread/INFO]: [Not Secure] [Server] asd
+[17:00:09] [Server thread/INFO]: [Not Secure] [Server] asd
+[17:05:27] [Server thread/INFO]: [Not Secure] [Server] asd
+[17:05:46] [Server thread/INFO]: chino555 has made the advancement [Spooky Scary Skeleton]
+[17:11:58] [Server thread/INFO]: [Not Secure] <chino555> botas de mrd
+[17:12:09] [Server thread/INFO]: [Not Secure] <chino555> BOTAS DE ORO CON SOUL SPEED 3 ES UNA MRD
+[17:12:14] [Server thread/INFO]: [Not Secure] <UPFUTX_300> xddd
+[17:12:14] [Server thread/INFO]: [Not Secure] <chino555> BLD SE GASTAN AL CAMINAR
+[17:12:18] [Server thread/INFO]: [Not Secure] <UPFUTX_300> SAKJSKAJSKAJSK
+[17:12:18] [Server thread/INFO]: [Not Secure] <chino555> SE ME ROMPIERON CAMIANANDO
+[17:12:20] [Server thread/INFO]: [Not Secure] <UPFUTX_300> Q
+[17:12:20] [Server thread/INFO]: [Not Secure] <chino555> Legal
+[17:12:22] [Server thread/INFO]: [Not Secure] <UPFUTX_300> NO ME JODA
+[17:12:22] [Server thread/INFO]: [Not Secure] <chino555> fuera de joda
+[17:12:25] [Server thread/INFO]: [Not Secure] <UPFUTX_300> calajo
+[17:12:34] [Server thread/INFO]: [Not Secure] <chino555> se gasta durabilidad a base de velocidad
+[17:12:36] [Server thread/INFO]: [Not Secure] <chino555> tmr
+[17:14:27] [Server thread/INFO]: [Not Secure] <UPFUTX_300> looting hasy hasta 3 noma verda¿
+[17:14:33] [Server thread/INFO]: [Not Secure] <chino555> loting 5
+[17:14:36] [Server thread/INFO]: [Not Secure] <chino555> deah
+[17:14:37] [Server thread/INFO]: [Not Secure] <chino555> 3
+[17:14:41] [Server thread/INFO]: [Not Secure] <UPFUTX_300> oka gracia
+[17:17:50] [Server thread/WARN]: Mismatch in destroy block pos: is{x=992, y=64, z=2039} is{x=994, y=64, z=2039}
+[17:18:13] [Server thread/INFO]: Villager dcx['Villager'/104457, l='ServerLevel[world]', x=994.50, y=64.00, z=2040.46] died, message: 'Villager tried to swim in lava'
+[17:18:32] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1478, y=56, z=-794} is{x=1478, y=56, z=-793}
+[17:18:32] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1478, y=56, z=-794} is{x=1478, y=56, z=-793}
+[17:18:32] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1478, y=56, z=-794} is{x=1478, y=56, z=-793}
+[17:18:32] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1478, y=56, z=-794} is{x=1478, y=56, z=-793}
+[17:18:32] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1478, y=56, z=-794} is{x=1478, y=56, z=-793}
+[17:18:32] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1478, y=56, z=-794} is{x=1478, y=56, z=-793}
+[17:18:32] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1478, y=56, z=-794} is{x=1478, y=56, z=-793}
+[17:18:32] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1478, y=56, z=-794} is{x=1478, y=56, z=-793}
+[17:18:33] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1478, y=56, z=-794} is{x=1478, y=56, z=-793}
+[17:18:33] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1478, y=56, z=-794} is{x=1478, y=56, z=-793}
+[17:18:33] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1478, y=56, z=-794} is{x=1478, y=56, z=-793}
+[17:18:33] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1478, y=56, z=-794} is{x=1478, y=56, z=-793}
+[17:18:33] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1478, y=56, z=-794} is{x=1478, y=56, z=-793}
+[17:18:33] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1478, y=56, z=-794} is{x=1478, y=56, z=-793}
+[17:18:33] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1478, y=56, z=-794} is{x=1478, y=56, z=-793}
+[17:18:33] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1478, y=56, z=-794} is{x=1478, y=56, z=-793}
+[17:18:33] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1478, y=56, z=-794} is{x=1478, y=56, z=-793}
+[17:18:33] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1478, y=56, z=-794} is{x=1478, y=56, z=-793}
+[17:18:33] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1478, y=56, z=-794} is{x=1478, y=56, z=-793}
+[17:18:33] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1478, y=56, z=-794} is{x=1478, y=56, z=-793}
+[17:18:33] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1478, y=56, z=-794} is{x=1478, y=56, z=-793}
+[17:18:33] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1478, y=56, z=-794} is{x=1478, y=56, z=-793}
+[17:18:33] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1478, y=56, z=-794} is{x=1478, y=56, z=-793}
+[17:18:33] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1478, y=56, z=-794} is{x=1478, y=56, z=-793}
+[17:18:33] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1478, y=56, z=-794} is{x=1478, y=56, z=-793}
+[17:18:33] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1478, y=56, z=-794} is{x=1478, y=56, z=-793}
+[17:21:30] [Server thread/INFO]: [Not Secure] [Server] asd
+[17:24:14] [Server thread/INFO]: [Not Secure] [Server] asd
+[17:25:07] [Server thread/WARN]: Mismatch in destroy block pos: is{x=112, y=79, z=301} is{x=112, y=78, z=303}
+[17:26:44] [Server thread/INFO]: [Not Secure] <chino555> juan
+[17:26:54] [Server thread/INFO]: [Not Secure] <UPFUTX_300> q
+[17:26:55] [Server thread/INFO]: [Not Secure] <chino555> stronghold?
+[17:26:58] [Server thread/INFO]: [Not Secure] <UPFUTX_300> ahora?
+[17:27:01] [Server thread/INFO]: [Not Secure] <chino555> no
+[17:27:07] [Server thread/INFO]: [Not Secure] <UPFUTX_300> entonce
+[17:27:14] [Server thread/INFO]: [Not Secure] <chino555> despues de algo
+[17:27:18] [Server thread/INFO]: [Not Secure] <UPFUTX_300> oka
+[17:27:27] [Server thread/INFO]: [Not Secure] <UPFUTX_300> por mientras ya voy
+[17:27:27] [Server thread/INFO]: [Not Secure] <chino555> juan
+[17:27:33] [Server thread/INFO]: [Not Secure] <UPFUTX_300> q
+[17:27:42] [Server thread/INFO]: [Not Secure] <chino555> axel ni jugo todavia
+[17:27:45] [Server thread/INFO]: [Not Secure] <chino555> XDDD
+[17:27:45] [Server thread/INFO]: [Not Secure] <UPFUTX_300> ah
+[17:27:49] [Server thread/INFO]: [Not Secure] <UPFUTX_300> entonces mejor no xddd
+[17:27:54] [Server thread/INFO]: [Not Secure] <chino555> De una
+[17:27:55] [Server thread/INFO]: [Not Secure] <UPFUTX_300> que axel juege algo almens mig
+[17:27:57] [Server thread/INFO]: [Not Secure] <chino555> que se joda
+[17:28:00] [Server thread/INFO]: [Not Secure] <UPFUTX_300> xdd
+[17:28:02] [Server thread/INFO]: [Not Secure] <UPFUTX_300> oka
+[17:28:05] [Server thread/INFO]: [Not Secure] <chino555> yo quiero elytras
+[17:28:08] [Server thread/INFO]: [Not Secure] <UPFUTX_300> xdd oka
+[17:28:17] [Server thread/INFO]: [Not Secure] <chino555> busca
+[17:29:23] [Server thread/INFO]: [Not Secure] <UPFUTX_300> te espero en la stronhold
+[17:29:24] [Server thread/WARN]: UPFUTX_300 moved too quickly! -12.175256609621101,0.0,-3.1665678703957383
+[17:29:27] [Server thread/WARN]: UPFUTX_300 moved too quickly! -12.471937881952499,0.0,-3.783307825452539
+[17:29:28] [Server thread/INFO]: [Not Secure] <chino555> no mentira
+[17:29:39] [Server thread/INFO]: [Not Secure] <UPFUTX_300> el q
+[17:29:41] [Server thread/INFO]: [Not Secure] <chino555> espemos a hoqa por lo menos
+[17:29:46] [Server thread/INFO]: [Not Secure] <UPFUTX_300> q
+[17:29:47] [Server thread/INFO]: [Not Secure] <UPFUTX_300> nah
+[17:29:54] [Server thread/WARN]: UPFUTX_300 moved too quickly! -12.948386909888455,4.113895843471525,-0.45225333381949895
+[17:29:58] [Server thread/INFO]: [Not Secure] <chino555> Y weno
+[17:31:05] [Server thread/INFO]: [Not Secure] <UPFUTX_300> tai
+[17:31:09] [Server thread/INFO]: [Not Secure] <chino555> si
+[17:31:12] [Server thread/INFO]: UPFUTX_300 has made the advancement [Eye Spy]
+[17:31:20] [Server thread/INFO]: [Not Secure] <chino555> guarda coords
+[17:31:23] [Server thread/INFO]: [Not Secure] <UPFUTX_300> 1 ojo
+[17:31:34] [Server thread/INFO]: [Not Secure] <UPFUTX_300> ya tenia we
+[17:31:36] [Server thread/INFO]: [Not Secure] <chino555> a
+[17:32:00] [Server thread/INFO]: [Not Secure] <chino555> vas a ver
+[17:32:03] [Server thread/INFO]: [Not Secure] <UPFUTX_300> el q
+[17:32:07] [Server thread/WARN]: UPFUTX_300 moved too quickly! 12.80786149513196,0.6430247291128666,0.6897960866440371
+[17:32:31] [Server thread/WARN]: UPFUTX_300 moved too quickly! 11.727725324501705,4.499999783639851,1.8167839563045618
+[17:32:41] [Server thread/WARN]: UPFUTX_300 moved too quickly! 9.28300690127179,0.0,9.140813166372936
+[17:32:42] [Server thread/WARN]: UPFUTX_300 moved too quickly! 11.208242569198433,0.0,0.37086543503892244
+[17:33:01] [Server thread/INFO]: [Not Secure] <UPFUTX_300> lo peor es q esta cerca de mi base
+[17:33:02] [Server thread/INFO]: [Not Secure] <UPFUTX_300> xdd
+[17:33:05] [Server thread/INFO]: [Not Secure] <chino555> ctm
+[17:33:27] [Server thread/INFO]: [Not Secure] <UPFUTX_300> ahora espereremos a axel
+[17:33:32] [Server thread/INFO]: [Not Secure] <chino555> si
+[17:33:36] [Server thread/INFO]: chino555 has made the advancement [Withering Heights]
+[17:33:46] [Server thread/INFO]: [Not Secure] <chino555> GG EZZ
+[17:33:54] [Server thread/INFO]: [Not Secure] <UPFUTX_300> xd
+[17:34:36] [Server thread/INFO]: [Not Secure] <chino555> CALAJO
+[17:34:59] [Server thread/INFO]: [Not Secure] <chino555> hacete tp
+[17:35:01] [Server thread/INFO]: [Not Secure] <chino555> juan
+[17:35:02] [Server thread/INFO]: [Not Secure] <chino555> le matamo
+[17:35:07] [Server thread/INFO]: [Not Secure] <chino555> Yo no puedo
+[17:35:26] [Server thread/INFO]: [Not Secure] <chino555> juan
+[17:35:27] [Server thread/INFO]: [Not Secure] <chino555> juan
+[17:35:28] [Server thread/INFO]: [Not Secure] <chino555> juan
+[17:35:29] [Server thread/INFO]: [Not Secure] <chino555> juan
+[17:35:30] [Server thread/INFO]: [Not Secure] <chino555> juan
+[17:35:35] [Server thread/INFO]: [Not Secure] <UPFUTX_300> q
+[17:35:45] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[17:35:49] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[17:35:56] [Server thread/WARN]: UPFUTX_300 moved too quickly! 9.789498313518294,-0.03130000000000166,-2.7364771302223545
+[17:36:10] [Server thread/INFO]: [Not Secure] <chino555> me pasas creativito 1 minutito?
+[17:36:12] [Server thread/INFO]: [Not Secure] <chino555> please?
+[17:36:16] [Server thread/INFO]: [Not Secure] <UPFUTX_300> no
+[17:36:21] [Server thread/WARN]: Mismatch in destroy block pos: is{x=340, y=65, z=34} is{x=340, y=66, z=30}
+[17:36:25] [Server thread/INFO]: [Not Secure] <chino555> porfa?
+[17:36:29] [Server thread/INFO]: [Not Secure] <UPFUTX_300> para q
+[17:36:32] [Server thread/INFO]: [Not Secure] <chino555> ejem
+[17:36:38] [Server thread/INFO]: [Not Secure] <chino555> para que no se me escape el wither
+[17:36:44] [Server thread/INFO]: [Not Secure] <UPFUTX_300> nop xd
+[17:36:46] [Server thread/INFO]: [Not Secure] <chino555> ESTOY sin casco
+[17:36:48] [Server thread/INFO]: [Not Secure] <chino555> dalee
+[17:36:51] [Server thread/INFO]: [Not Secure] <chino555> no conte con eso
+[17:36:51] [Server thread/INFO]: [Not Secure] <UPFUTX_300> y q xd
+[17:37:10] [Server thread/WARN]: UPFUTX_300 moved too quickly! 5.0546768303382805,0.0,-11.245017798301042
+[17:37:36] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[17:37:42] [Server thread/WARN]: UPFUTX_300 moved too quickly! 12.129119133777976,0.03130000000000166,-1.8102314160973378
+[17:37:45] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[17:37:48] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[17:38:04] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[17:38:06] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[17:38:50] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12084, y=65, z=-5682} is{x=12084, y=64, z=-5682}
+[17:40:23] [Server thread/INFO]: [Not Secure] <chino555> DORMI
+[17:40:32] [Server thread/INFO]: [Not Secure] <UPFUTX_300> no puedo
+[17:40:33] [Server thread/INFO]: [Not Secure] <chino555> O SALITE
+[17:40:36] [Server thread/INFO]: [Not Secure] <chino555> SALI DEL JUEGO
+[17:40:36] [Server thread/INFO]: [Not Secure] <UPFUTX_300> no PUEDO XDDD
+[17:40:38] [Server thread/INFO]: [Not Secure] <chino555> 1 SEGUNDO
+[17:40:39] [Server thread/INFO]: [Not Secure] <chino555> DALEEE
+[17:40:42] [Server thread/INFO]: [Not Secure] <chino555> DALEE PUTAZO
+[17:40:49] [Server thread/INFO]: UPFUTX_300 lost connection: Disconnected
+[17:40:49] [Server thread/INFO]: UPFUTX_300 left the game
+[17:40:49] [Server thread/INFO]: [Not Secure] <chino555> AHORA QUE ESTOY CON UN WITHER DEJATE DE JODER
+[17:40:58] [Server thread/INFO]: UPFUTX_300[/10.242.149.228:49285] logged in with entity id 168030 at (12083.300000011921, 58.0, -5687.699999988079)
+[17:40:58] [Server thread/INFO]: UPFUTX_300 joined the game
+[17:41:28] [Server thread/INFO]: [Not Secure] [Server] asd
+[17:44:36] [Server thread/INFO]: [Not Secure] <UPFUTX_300> tai
+[17:44:42] [Server thread/INFO]: [Not Secure] <chino555> hao
+[17:44:47] [Server thread/INFO]: [Not Secure] <UPFUTX_300> me conseguis caurzo?
+[17:44:47] [Server thread/INFO]: [Not Secure] <chino555> que paso
+[17:44:49] [Server thread/INFO]: [Not Secure] <chino555> NO
+[17:44:57] [Server thread/INFO]: [Not Secure] <UPFUTX_300> y me dejas en un cofre
+[17:45:00] [Server thread/INFO]: [Not Secure] <chino555> 1 COFRE DOBLE TENGO
+[17:45:02] [Server thread/INFO]: [Not Secure] <chino555> DE CUARZO
+[17:45:09] [Server thread/INFO]: [Not Secure] <UPFUTX_300> en coordenadas lejos de tu base
+[17:45:13] [Server thread/INFO]: [Not Secure] <chino555> no
+[17:45:17] [Server thread/INFO]: [Not Secure] <UPFUTX_300> okay
+[17:45:20] [Server thread/INFO]: [Not Secure] <chino555> no me diste creativo jodete
+[17:45:25] [Server thread/INFO]: [Not Secure] <chino555> ahora me apaño
+[17:45:30] [Server thread/INFO]: [Not Secure] <UPFUTX_300> q cabron
+[17:45:35] [Server thread/INFO]: [Not Secure] <UPFUTX_300> se te escapo el whiter? xd
+[17:45:40] [Server thread/INFO]: [Not Secure] <chino555> creo que no
+[17:45:45] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1422, y=76, z=-720} is{x=1463, y=78, z=-686}
+[17:46:13] [Server thread/INFO]: [Not Secure] [Server] asd
+[17:47:20] [Server thread/INFO]: chino555 has made the advancement [Local Brewery]
+[17:47:25] [Server thread/INFO]: [Not Secure] <UPFUTX_300> waotes
+[17:50:04] [Server thread/INFO]: [Not Secure] <chino555> SI ESTO NO ES SUFICIENTE
+[17:50:10] [Server thread/INFO]: [Not Secure] <chino555> NADA LO SERA
+[17:50:11] [Server thread/INFO]: [Not Secure] <UPFUTX_300> xddd
+[17:53:47] [Server thread/WARN]: UPFUTX_300 moved too quickly! 1.613668913489164,0.0,12.938003834825395
+[17:53:51] [Server thread/WARN]: UPFUTX_300 moved too quickly! 1.4405880518879712,0.0,12.687288585922033
+[17:54:16] [Server thread/INFO]: UPFUTX_300 has made the advancement [Minecraft: Trial(s) Edition]
+[17:54:18] [Server thread/INFO]: [Not Secure] <UPFUTX_300> OSTIA
+[17:55:53] [Server thread/INFO]: hoa_xd[/10.242.148.126:53016] logged in with entity id 173759 at (12364.911056515455, 62.29479567792212, -6083.129848274922)
+[17:55:53] [Server thread/INFO]: hoa_xd joined the game
+[17:55:55] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[17:55:56] [Server thread/INFO]: [Not Secure] <chino555> JEJE
+[17:56:54] [Server thread/INFO]: [Not Secure] <hoa_xd> KORE ME EXPO
+[17:57:01] [Server thread/INFO]: [Not Secure] <hoa_xd> ME EXPLOTO CREEPER
+[17:57:11] [Server thread/INFO]: [Not Secure] <UPFUTX_300> XD
+[17:57:16] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[17:57:16] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[17:57:22] [Server thread/WARN]: UPFUTX_300 moved too quickly! 0.0,-10.499471873617473,0.0
+[17:57:23] [Server thread/INFO]: [Not Secure] <hoa_xd> estaba afk
+[17:57:24] [Server thread/INFO]: [Not Secure] <hoa_xd> tmr
+[17:57:33] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[17:58:19] [Server thread/INFO]: [Not Secure] <chino555> WITHER
+[17:59:28] [Server thread/INFO]: [Not Secure] <chino555> nde
+[17:59:29] [Server thread/INFO]: [Not Secure] <UPFUTX_300> BASTION
+[17:59:30] [Server thread/INFO]: [Not Secure] <chino555> pasa los libros
+[17:59:40] [Server thread/INFO]: [Not Secure] <UPFUTX_300> k
+[17:59:40] [Server thread/INFO]: [Not Secure] <chino555> gracia
+[18:00:08] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[18:00:15] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[18:00:21] [Server thread/INFO]: [Not Secure] <chino555> necesito la mesa
+[18:00:26] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[18:00:31] [Server thread/INFO]: [Not Secure] <chino555> por esta vez
+[18:00:40] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[18:00:46] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[18:00:48] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[18:00:49] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[18:00:50] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[18:00:50] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[18:00:56] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[18:01:15] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[18:01:22] [Server thread/WARN]: UPFUTX_300 moved too quickly! -10.685367746888005,0.0,0.8261149345519243
+[18:01:36] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[18:01:38] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[18:01:51] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[18:01:52] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[18:01:58] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[18:02:17] [Server thread/INFO]: [Not Secure] <chino555> sere un imbecil
+[18:02:21] [Server thread/INFO]: [Not Secure] <chino555> PERO UN IMBECIL CON EGO
+[18:02:42] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12043, y=64, z=-5366} is{x=275, y=103, z=226}
+[18:02:45] [Server thread/INFO]: [Not Secure] <hoa_xd> nerf rpg
+[18:03:01] [Server thread/WARN]: UPFUTX_300 moved too quickly! -13.049728233116497,0.0,0.5488731956189952
+[18:03:43] [Server thread/INFO]: [Not Secure] <chino555> BLD
+[18:03:47] [Server thread/INFO]: [Not Secure] <UPFUTX_300> q
+[18:03:48] [Server thread/INFO]: [Not Secure] <chino555> Para
+[18:03:50] [Server thread/INFO]: [Not Secure] <hoa_xd> vo casi
+[18:03:51] [Server thread/INFO]: [Not Secure] <hoa_xd> se muer
+[18:03:53] [Server thread/INFO]: [Not Secure] <hoa_xd> XD
+[18:03:57] [Server thread/INFO]: [Not Secure] <hoa_xd> el lag me trolleo
+[18:03:59] [Server thread/INFO]: hoa_xd lost connection: Disconnected
+[18:03:59] [Server thread/INFO]: hoa_xd left the game
+[18:04:03] [Server thread/INFO]: [Not Secure] <UPFUTX_300> HOA
+[18:04:19] [Server thread/INFO]: [Not Secure] <chino555> CASI MATA A MI PERRO EL IMBECIL
+[18:06:08] [Server thread/INFO]: [Not Secure] <chino555> WITHER
+[18:06:54] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[18:09:18] [Server thread/INFO]: [Not Secure] <chino555> FUCK OFF
+[18:09:22] [Server thread/INFO]: [Not Secure] <chino555> FUCK OFF WITHER
+[18:09:38] [Server thread/INFO]: [Not Secure] <chino555> SOLO ME HICIERON FALTA 3 POCIONES
+[18:09:43] [Server thread/INFO]: [Not Secure] <chino555> 1 ARCO
+[18:09:48] [Server thread/INFO]: [Not Secure] <chino555> Y MUCHO EGO
+[18:11:22] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[18:11:23] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[18:11:24] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[18:12:25] [Server thread/INFO]: [Not Secure] <UPFUTX_300> :3
+[18:12:52] [Server thread/INFO]: [Not Secure] [Server] asd
+[18:13:52] [Server thread/WARN]: UPFUTX_300 moved too quickly! -12.508759070882888,4.469976705697704,-3.1635616982425745
+[18:14:12] [Server thread/INFO]: [Not Secure] <UPFUTX_300> hagan zz
+[18:14:37] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[18:17:30] [Server thread/INFO]: [Not Secure] [Server] asd
+[18:21:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2638ms or 52 ticks behind
+[18:22:00] [Server thread/INFO]: Incorrect argument for command
+[18:22:00] [Server thread/INFO]: ...eton_skull <--[HERE]
+[18:22:43] [Server thread/INFO]: Unknown item 'minecraft:whither_skeleton_skull'
+[18:22:43] [Server thread/INFO]: ...PFUTX_300 whither_skeleton_skull 1<--[HERE]
+[18:22:52] [Server thread/INFO]: UPFUTX_300 has made the advancement [Spooky Scary Skeleton]
+[18:22:52] [Server thread/INFO]: Gave 1 [Wither Skeleton Skull] to UPFUTX_300
+[18:22:56] [Server thread/INFO]: [Not Secure] <UPFUTX_300> gg
+[18:23:18] [Server thread/INFO]: Gave 64 [Wither Skeleton Skull] to UPFUTX_300
+[18:23:58] [Server thread/INFO]: Gave 64 [Wither Skeleton Skull] to UPFUTX_300
+[18:24:00] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[18:24:00] [Server thread/INFO]: [A<--[HERE]
+[18:24:07] [Server thread/INFO]: Gave 64 [Wither Skeleton Skull] to UPFUTX_300
+[18:25:10] [Server thread/INFO]: [Not Secure] <chino555> Dormi
+[18:25:12] [Server thread/INFO]: [Not Secure] <chino555> }dormi
+[18:25:19] [Server thread/INFO]: [Not Secure] <UPFUTX_300> duermo y me qeudeo afk
+[18:26:08] [Server thread/INFO]: [Not Secure] [Server] asd
+[18:26:12] [Server thread/INFO]: [Not Secure] <UPFUTX_300> vuelvo
+[18:26:24] [Server thread/INFO]: [Not Secure] <UPFUTX_300> tengo q entrenar
+[18:26:25] [Server thread/INFO]: [Not Secure] <UPFUTX_300> afk
+[18:26:30] [Server thread/INFO]: [Not Secure] <UPFUTX_300> suerte amiwo
+[18:28:25] [Server thread/INFO]: chino555 lost connection: Disconnected
+[18:28:25] [Server thread/INFO]: chino555 left the game
+[18:31:44] [Server thread/INFO]: [Not Secure] [Server] asd
+[18:32:01] [Server thread/INFO]: [UPFUTX_300: Gave 1 [Heavy Core] to UPFUTX_300]
+[18:40:52] [Server thread/INFO]: Villager dcx['Fletcher'/193505, l='ServerLevel[world]', x=921.98, y=64.06, z=2025.48] died, message: 'Fletcher was slain by Zombie'
+[18:40:59] [Server thread/INFO]: Villager dcx['Farmer'/193490, l='ServerLevel[world]', x=916.50, y=72.94, z=2041.71] died, message: 'Farmer was slain by Zombie'
+[18:41:16] [Server thread/INFO]: Villager dcx['Farmer'/193449, l='ServerLevel[world]', x=906.41, y=72.75, z=2043.16] died, message: 'Farmer was slain by Zombie Villager'
+[18:43:43] [Server thread/INFO]: Villager dcx['Villager'/193480, l='ServerLevel[world]', x=917.70, y=64.00, z=2038.30] died, message: 'Villager was squished too much'
+[18:47:13] [Server thread/INFO]: Villager dcx['Villager'/193466, l='ServerLevel[world]', x=917.30, y=64.00, z=2038.70] died, message: 'Villager was squished too much'
+[18:47:42] [Server thread/INFO]: Villager dcx['Villager'/193478, l='ServerLevel[world]', x=917.30, y=64.00, z=2038.30] died, message: 'Villager was squished too much'
+[18:47:42] [Server thread/INFO]: [Not Secure] [Server] asd
+[18:53:16] [Server thread/INFO]: [Not Secure] [Server] asd
+[18:55:05] [Server thread/INFO]: Villager dcx['Villager'/200382, l='ServerLevel[world]', x=917.30, y=64.00, z=2038.30] died, message: 'Villager was squished too much'
+[18:55:05] [Server thread/INFO]: Villager dcx['Villager'/193475, l='ServerLevel[world]', x=917.30, y=64.00, z=2038.30] died, message: 'Villager was squished too much'
+[18:55:06] [Server thread/INFO]: Villager dcx['Villager'/193482, l='ServerLevel[world]', x=917.30, y=64.00, z=2038.30] died, message: 'Villager was squished too much'
+[18:58:08] [Server thread/INFO]: [Not Secure] [Server] asd
+[19:01:36] [Server thread/INFO]: [Not Secure] [Server] asd
+[19:06:12] [Server thread/INFO]: Villager dcx['Villager'/193483, l='ServerLevel[world]', x=917.70, y=64.00, z=2038.30] died, message: 'Villager was squished too much'
+[19:07:17] [Server thread/INFO]: [Not Secure] [Server] asd
+[19:10:09] [Server thread/INFO]: [Not Secure] [Server] asd
+[19:12:55] [Server thread/INFO]: [Not Secure] [Server] asd
+[19:15:02] [Server thread/INFO]: Villager dcx['Villager'/193468, l='ServerLevel[world]', x=917.30, y=64.00, z=2038.70] died, message: 'Villager was squished too much'
+[19:15:11] [Server thread/INFO]: Villager dcx['Villager'/193467, l='ServerLevel[world]', x=917.30, y=64.00, z=2038.70] died, message: 'Villager was squished too much'
+[19:18:32] [Server thread/INFO]: [Not Secure] <UPFUTX_300> say asd
+[19:18:35] [Server thread/INFO]: [Not Secure] [UPFUTX_300] asd
+[19:18:46] [Server thread/INFO]: [Not Secure] [Server] asd
+[19:25:16] [Server thread/INFO]: [Not Secure] <UPFUTX_300> asd
+[19:25:19] [Server thread/INFO]: [Not Secure] [Server] asd
+[19:29:11] [Server thread/INFO]: [Not Secure] <UPFUTX_300> asd
+[19:29:20] [Server thread/INFO]: [Not Secure] [Server] asd
+[19:31:51] [Server thread/INFO]: [Not Secure] <UPFUTX_300> sD
+[19:31:55] [Server thread/INFO]: [Not Secure] [Server] asd
+[19:35:05] [Server thread/INFO]: Villager dcx['Villager'/193474, l='ServerLevel[world]', x=917.70, y=64.00, z=2038.70] died, message: 'Villager was squished too much'
+[19:35:07] [Server thread/INFO]: Villager dcx['Villager'/193472, l='ServerLevel[world]', x=917.70, y=64.00, z=2038.70] died, message: 'Villager was squished too much'
+[19:35:11] [Server thread/INFO]: Villager dcx['Villager'/193473, l='ServerLevel[world]', x=917.70, y=64.00, z=2038.70] died, message: 'Villager was squished too much'
+[19:35:51] [Server thread/INFO]: [Not Secure] <UPFUTX_300> g
+[19:35:57] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[19:35:57] [Server thread/INFO]: [A<--[HERE]
+[19:40:01] [Server thread/INFO]: [Not Secure] [Server] asd
+[19:40:04] [Server thread/INFO]: [Not Secure] <UPFUTX_300> asd
+[19:43:02] [Server thread/INFO]: [Not Secure] <UPFUTX_300> asd
+[19:43:06] [Server thread/INFO]: [Not Secure] [Server] asd
+[19:47:00] [Server thread/WARN]: UPFUTX_300 moved too quickly! 10.374295149599561,0.0,3.308287546178235
+[19:47:38] [Server thread/INFO]: [Not Secure] [Server] asd
+[19:53:11] [Server thread/INFO]: [Not Secure] <UPFUTX_300> asd
+[19:53:14] [Server thread/INFO]: [Not Secure] [Server] asd
+[19:55:02] [Server thread/INFO]: Villager dcx['Villager'/193477, l='ServerLevel[world]', x=917.70, y=64.00, z=2038.70] died, message: 'Villager was squished too much'
+[19:58:45] [Server thread/INFO]: [Not Secure] [Server] asd
+[19:58:47] [Server thread/INFO]: [Not Secure] <UPFUTX_300> asd
+[20:00:05] [Server thread/INFO]: [Not Secure] <UPFUTX_300> asd
+[20:00:15] [Server thread/INFO]: [Not Secure] [Server] asd
+[20:04:10] [Server thread/INFO]: [UPFUTX_300: Gave 128 [Soul Sand] to UPFUTX_300]
+[20:05:08] [Server thread/INFO]: UPFUTX_300 lost connection: Disconnected
+[20:05:08] [Server thread/INFO]: UPFUTX_300 left the game
+[20:05:11] [Server thread/INFO]: Stopping the server
+[20:05:12] [Server thread/INFO]: Stopping server
+[20:05:12] [Server thread/INFO]: Saving players
+[20:05:12] [Server thread/INFO]: Saving worlds
+[20:05:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:05:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:05:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:05:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:05:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:05:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:05:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
